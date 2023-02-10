@@ -22,7 +22,7 @@ it is the universal tab to change style fully.
     margin-left: 40px;
 }
 /*
-By using padding margin and border we can adjust the position of the box within the page
+By using padding margin and border we can adjust the position of the box within the page.we can see that they are adjusted by top bottom right and left in all.
 */
 .container{
 height: auto;
@@ -49,7 +49,9 @@ and overflow is used to create ascroll bar and to hide it.
     margin-right: 20px;
     margin-left: 20px;
 }
+/*
+similiar to those in .box these are also created in such a way that it doesnt affect the other box and by organising it we can make it look good.*/
 p.box{
     content:"All HTML elements displayed in the browser are drawn in a box shape.Each ‘box’ has a top, right, bottom and left, a central content area surrounded by an area of padding, then a border, then an outer margin area CSS can target these sides to manipulate elements in various ways (adding padding, margins, borders, images and colours inside the content)";
 }
-/*
+/*thhis simply provides information to others.*/
